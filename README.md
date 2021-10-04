@@ -1,2 +1,2 @@
 # DATA_STRUCTURES
-Data Structures hw practice
+Data Structures HW practice
